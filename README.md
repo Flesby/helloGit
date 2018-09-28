@@ -3,6 +3,6 @@ Work
 
 théo create / edit files
 
-Damien crete / edit files
+Damien create / edit files
 
 Hello, Wesley edit this File !
